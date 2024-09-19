@@ -1,0 +1,51 @@
+
+1 - 8. (CANCELED)  
+     
+     
+         9. A PERSONAL COMPUTER COMPRISING:
+ A MAIN BODY HAVING A KEYBOARD;
+
+BACKGROUND
+Field: An information processing device includes a main body, a display unit pivotally coupled between a first position and a second position, the display unit having a buttons arranged on an outer surface of the display unit, a detector detecting whether the display unit is in
+
+SUMMARY
+1. An information processing device comprising: a main body having a keyboard;  a display unit pivotally coupled between a first position and a second position, the display unit having a key button arranged on an outer surface of the display unit;  a detector detecting whether the display unit is in a first position or in a second position;  and a unit which changes the functions of the plurality of key buttons according to a detection result of the detector. 
+   
+   
+       2. The information processing device according to  claim 1, wherein the plurality of key buttons includes at least one of a right arrow key, a left arrow key, an up arrow key and a down arrow key. 
+   
+   
+       3. The information processing device according to  claim 1, wherein the plurality of key buttons includes at least one of an OK key and a clear key. 
+   
+   
+       4. The information processing device according to  claim 1, wherein the display unit includes a touch panel. 
+   
+   
+       5. The information processing device according to  claim 1, wherein the plurality of key buttons includes a right arrow key, a left arrow key, an up arrow key, a down arrow key, an OK key and a clear key. 
+   
+   
+       6. A key button function allocating method for an information processing device including a main body having a keyboard, a display unit pivotally coupled between a first position and a second position, the display unit having a key button arranged on an outer surface of the display unit, a detector detecting whether the display unit is in a first position or in a second position, and a unit which changes the functions of the plurality of key buttons according to a detection result of the detector, the key button function allocating method comprising:
+ changing the functions of the plurality of key buttons according to a detection result of the detector; and  changing the functions of the plurality of key buttons according to an input from a keyboard. 
+ 
+   
+   
+       7. The key button function allocating method according to  claim 6, wherein the plurality of key buttons includes at least one of a right arrow key, a left arrow key, an up arrow key and a down arrow key. 
+   
+   
+       8. The key button function allocating method according to  claim 6, wherein the plurality of key buttons includes at least one of an OK key and a clear key. 
+   
+   
+       9. The key
+
+ABSTRACT
+
+An information processing device includes a main body, a display unit pivotally coupled between a first position and a second position, the display unit having a buttons arranged on an outer surface of the display unit, a detector detecting whether the display unit is in a first position or in a second position, and a unit which changes the functions of the plurality of key buttons according to a detection result of the detector.
+
+CLAIMS
+
+1. An information processing device comprising: a main body having a keyboard; a display unit pivotally coupled between a first position and a second position, the display unit having a key button arranged on an outer surface of the display unit; a detector detecting whether the display unit is in a first position or in a second position; and a unit which changes the functions of the plurality of key buttons according to a detection result of the detector. The information processing device according to  claim 1, wherein the display unit is provided with a display panel which displays an image. 3. 4. 5. 6. 7. 8. 9. 10.
+
+DESCRIPTION
+
+1. An information processing device comprising: 
+ a main body having a keyboard;    a display unit pivotally coupled between a first position and a second position, the display unit having a key button arranged on an outer surface of the display unit;    a detector detecting whether the display unit is in a first position or in a second position; and    a unit which changes functions of the plurality of key buttons according to a detection result of the detector, wherein    when the display unit is in the first position, the display unit is set to a first mode and the unit changes the functions of the plurality of key buttons so as to be associated with the keyboard, and    when the display unit is in the second position, the display unit is set to a second mode and the unit changes the functions of the plurality of key buttons so as to be associated with the display unit. The information processing device according to  claim 1, wherein the detector detects whether the display unit is in the first position or in the second position based on a change of a position of the display unit. 3. 4. The information processing device according to  claim 1, wherein the display unit includes a display. 5. 6. 7. 8. 9. 10. 11. 12. 20. 21. 24.

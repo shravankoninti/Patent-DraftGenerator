@@ -1,0 +1,56 @@
+
+WHAT IS CLAIMED IS: 
+     
+       1. A METHOD COMPRISING:
+ DEFINING, BY A GEOSPATIAL NAVIGATION SYSTEM, GEOGRAPHY OF A DOMAIN OF
+
+BACKGROUND
+Field: What is claimed is: 
+     
+       1. A method comprising:
+ defining, by a geospatial navigation system, geography of a domain of navigational proficiency of a user of a mobile navigation device; 
+ receiving, by the geospatial
+
+SUMMARY
+What is claimed is: 
+     
+       1. A method comprising:
+ defining, by a geospatial navigation system, geography of a domain of navigational proficiency of a user of a mobile navigation device; 
+ receiving, by the geospatial navigation system from the user, user input representative of a request to provide navigational guidance from a first location to a second location, the first location and the second location being located within the geography of the domain of navigational proficiency of the user; 
+ receiving, by the geospatial navigation system from the user, user input representative of a request to provide navigational guidance from the first location to a third location, the third location being located outside the geography of the domain of navigational proficiency of the user; 
+ determining, by the geospatial navigation system, a distance between the second location and the third location; 
+ determining, by the geospatial navigation system, a maximum distance at which navigational guidance may be provided to the user from the first location to the third location, the maximum distance being a distance at which the user is unable to navigate to the third location based on the user’s navigational proficiency; and 
+ providing, by the geospatial navigation system to the user, voice guidance to navigate from the first location to the third location based on the user input representative of the request to provide navigational guidance from the first location to the third location, 
+ wherein the providing of the voice guidance to navigate from the first location to the third location comprises providing the voice guidance to navigate from the first location to the second location and providing the voice guidance to navigate from the second location to the third location, and 
+ wherein the providing of the voice guidance to navigate from the first location to the third location is based on determining that the distance between the second location and the third location is less than or equal to the maximum distance at which navigational guidance may be provided to the user from the first location to the third location. 
+ 
+     
+     
+       2. The method of  claim 1, wherein the geography of the domain of navigational proficiency of the user is defined by the user of the mobile navigation device. 
+     
+     
+       3. The method of  claim 1, wherein the geography of the domain of navigational proficiency of the user is defined by the geospatial navigation system based on data associated with the user. 
+     
+     
+       4. The method of  claim 1, wherein the geography of
+
+ABSTRACT
+
+An exemplary geospatial navigation system defines geography of a domain of navigational proficiency of a user of a mobile navigation device. The geospatial navigation system receives, from the user, user input representative of a request to provide navigational guidance from a first location located within the geography of the domain of navigational proficiency of the user, to a second location located outside the geography of the domain of navigational proficiency of the user. The geospatial navigation system provides, to the user, navigational guidance from the first location to the second location. The geospatial navigation system defines the geography of the domain of navigational proficiency of the user based, at least in part, on the first location and the second location. The geospatial navigation system may provide the navigational guidance to the user in response to a voice command received from the user. The geospatial navigation system may provide the navigational guidance to the user by causing the user to hear a voice message. The geospatial navigation system may determine the geography of the domain of navigational proficiency of the user based, at least in part, on a confidence level associated with the user. The geospatial navigation system may determine the geography of the domain of navigational proficiency
+
+CLAIMS
+
+1. A method comprising:
+2. defining, by a geospatial navigation system, geography of a domain of navigational proficiency of a user of a mobile navigation device;
+3. receiving, by the geospatial navigation system from the user, user input representative of a request to provide navigational guidance from a first location to a second location, the first location located within the geography of the domain of navigational proficiency of the user and the second location located outside the geography of the domain of navigational proficiency of the user; and
+4. determining, by the geospatial navigation system, a navigational guidance mode of the request, the navigational guidance mode indicating a type of navigational guidance to be provided to the user, the navigational guidance mode including one or more of: an auto mode, a manual mode, and an off mode;
+5. providing, by the geospatial navigation system, navigational guidance to the user, the navigational guidance indicating a route from the first location to the second location, the navigational guidance provided according to the navigational guidance mode. The method of  claim 1, wherein the geography of the domain of navigational proficiency of the user is defined based on user input representative of a radius of the domain of navigational proficiency of the user. 3. 4. 5. 6. 7. 8. 9.
+
+DESCRIPTION
+
+1. A method comprising: 
+ defining, by a geospatial navigation system, geography of a domain of navigational proficiency of a user of a mobile navigation device; 
+ receiving, by the geospatial navigation system from the user, user input representative of a request to provide navigational guidance from a first location to a second location, the second location located outside the geography of the domain of navigational proficiency of the user; and 
+ providing, by the geospatial navigation system, selective voice guidance to the user via the mobile navigation device, the selective voice guidance being based on the user input, the selective voice guidance comprising: a first portion of the selective voice guidance that includes an indication of a first portion of a route from the first location to the second location, the first portion of the route being located within the geography of the domain of navigational proficiency of the user; and a second portion of the selective voice guidance that includes an indication of a second portion of the route from the first location to the second location, the second portion of the route being located outside the geography of the domain of navigational proficiency of the user. The method of  claim 1, further comprising:
+ determining, by the geospatial navigation system, the geography of the domain of navigational proficiency of the user based on a profile of the user stored by the geospatial navigation system. 3. The method of  claim 1, wherein the selective voice guidance further comprises:
+ a third portion of the selective voice guidance that includes an indication of a third portion of the route from the first location to the second location, the third portion of the route being located within the geography of the domain of navigational proficiency of the user, the third portion of the route being a different portion than the first portion of the route. 4. 5. 6. 7. 8. 9. 10. 11. 12. 20. 21. 24. 31. 32. 33. 38. 40. 42. 47. 50. 51. 52. 60. 64. 65. 70. 75. 76. 78. 81. 88. 89. 90. 91. 95. 97. 99. 100. 101. 103.

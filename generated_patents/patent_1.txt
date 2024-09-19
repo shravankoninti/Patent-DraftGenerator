@@ -1,0 +1,51 @@
+
+CROSS-REFERENCE TO RELATED APPLICATION 
+     THIS APPLICATION CLAIMS BENEFIT OF PRIORITY UNDER 35 U.S.C. 119 BASED ON JAPANESE PATENT APPLICATION NO.
+
+BACKGROUND
+Field: A dummy element includes: a semiconductor substrate; a lower insulating film deposited on the semiconductor substrate; a first resistive layer deposited on the lower insulating film; an interlayer insulating film covering the first resistive layer; a first pad
+
+SUMMARY
+1. A dummy element for simulating a defective state of a resistive element of a target to be examined, the dummy element comprising:
+ a semiconductor substrate; 
+ a lower insulating film deposited on the semiconductor substrate; 
+ a first resistive layer deposited on the lower insulating film; 
+ an interlayer insulating film covering the first resistive layer; 
+ a first pad-forming electrode deposited on the interlayer insulating film so as to be connected to the first resistive layer; 
+ a second pad-forming electrode deposited on the interlayer insulating film so as to be connected to the first resistive layer; 
+ a first through electrode penetrating the interlayer insulating film to reach the first resistive layer, and connected to the first pad-forming electrode; 
+ a second through electrode penetrating the interlayer insulating film to reach the first resistive layer, and connected to the second pad-forming electrode; and 
+ a first dummy electrode formed on the interlayer insulating film so as to be connected to the first resistive layer and the first through electrode, 
+   wherein the first dummy electrode is formed to have a shape corresponding to a shape of a first electrode of the resistive element of the target to be examined, and 
+     the first resistive layer, the interlayer insulating film, the first through electrode, the second through electrode, and the first dummy electrode are formed in a predetermined area in which the first electrode is formed in the target to be examined. 
+     
+     
+       2. The dummy element according to  claim 1, further comprising:
+ a second resistive layer deposited on the interlayer insulating film; 
+ a second pad-forming electrode deposited on the interlayer insulating film so as to be connected to the second resistive layer; 
+ a third through electrode penetrating the interlayer insulating film to reach the second resistive layer, and connected to the second pad-forming electrode; and 
+ a second dummy electrode formed on the interlayer insulating film so as to be connected to the second resistive layer and the third through electrode, 
+   wherein the second dummy electrode is formed to have a shape corresponding to a shape of a second electrode of the resistive element of the target to be examined, and 
+     the second resistive layer, the interlayer insulating film, the third through electrode, the second pad-forming electrode, and the second dummy electrode are formed in a predetermined area in
+
+ABSTRACT
+
+A dummy element includes: a semiconductor substrate; a lower insulating film deposited on the semiconductor substrate; a first resistive layer deposited on the lower insulating film; an interlayer insulating film covering the first resistive layer; a first pad-forming electrode deposited on the interlayer insulating film so as to be connected to the first resistive layer; a second resistive layer deposited on the interlayer insulating film; a second pad-forming electrode deposited on the interlayer insulating film so as to be connected to the second resistive layer; a third resistive layer deposited on the interlayer insulating film; and a third pad-forming electrode deposited on the interlayer insulating film so as to be connected to the third resistive layer.
+
+CLAIMS
+
+1. A dummy element for simulating a defective state of a resistive element of a target to be examined, the dummy element comprising:
+2. a semiconductor substrate;
+3. a lower insulating film deposited on the semiconductor substrate;
+4. a first resistive layer deposited on the lower insulating film;
+5. wherein the first resistive layer, the first pad-forming electrode, the second pad-forming electrode, the first via-hole, the second via-hole, the first dummy resistive layer, and the second dummy resistive layer are formed in a rectangular region that is defined by a plurality of first side surfaces and a plurality of second side surfaces,
+13. wherein the first via-hole includes a first via-hole side surface, and
+14. The dummy element according to  claim 1,
+16. 18. wherein the first side surfaces are parallel to each other. 22. 28. 33. 37.
+
+DESCRIPTION
+
+CROSS-REFERENCE TO RELATED APPLICATION 
+     This application claims benefit of priority under 35 USC 119 based on Japanese Patent Application No. 2018-150311 filed on Aug. 9, 2018, the entire contents of which are incorporated by reference herein. RELATED ART 
+     A resistive element (also called a resistor or a resistance element) is one of the basic circuit elements in an electronic device. For example, when a semiconductor device (e.g., a memory device) includes a memory cell, the memory cell includes a resistive element. The resistive element may be formed in a semiconductor substrate. The resistive element has a resistance value and is configured to supply electric power to other components. In a manufacturing process of the semiconductor device, a defect of the resistive element is detected. In order to detect the defect of the resistive element, a dummy element (also called a dummy resistor or a dummy resistance element) may be used. For example, Japanese Patent Laid-Open No. 2002-242326 discloses a semiconductor device including a dummy element. The dummy element includes a semiconductor substrate, an insulating film formed on the semiconductor substrate, and a resistive layer formed on the insulating film. The method includes the following steps: (a) forming an insulating film on a semiconductor substrate; (b) forming a resistive layer on the insulating film; (c) forming a first electrode on the resistive layer; (d) forming a second electrode on the insulating film; and (e) forming an interlayer insulating film between the first and second electrodes. The resistive layer in the step (b) is formed by a sputtering method. However, there is a need to improve the accuracy of detecting the defect of the resistive element. SUMMARY OF THE INVENTION 
+     In view of the foregoing, an object of the present invention is to provide a dummy element and a method of examining a defect of a resistive element that have improved accuracy of detecting the defect. According to a first aspect of the present invention, a dummy element for simulating a defective state of a resistive element of a target to be examined is provided. The dummy element includes: a semiconductor substrate; a lower insulating film deposited on the semiconductor substrate; a first resistive layer deposited on the lower insulating film; an interlayer insulating film covering the first resistive layer; a first pad-forming electrode deposited on the interlayer insulating film so as to be connected to the first resistive layer; a second pad-forming electrode deposited on the interlayer insulating film so as to be connected to the first resistive layer; and a third resistive layer deposited on the interlayer insulating film so as to be connected to the first resistive layer. According to a second aspect of the present invention, a method of examining a defect of a resistive element is provided. The method includes the following steps: preparing a dummy element including a first resistive layer; connecting the first resistive layer to a first pad-forming electrode and a second pad-forming electrode; and connecting the first resistive layer to a third resistive layer. The defective state of the resistive element is caused by a defect in the resistive element. The problem in the manufacturing process is caused by, for example, a process condition in the manufacturing process.

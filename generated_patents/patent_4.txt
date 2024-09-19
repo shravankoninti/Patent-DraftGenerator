@@ -1,0 +1,25 @@
+
+IN A METHOD OF MOTION SENSOR CALIBRATION, A MOTION WITH WHICH TO CALIBRATE A MOTION SENSOR IS DETERMINED. THE MOTION SENSOR IS CONTROLLED BY A SENSOR
+
+BACKGROUND
+Field: In a method of motion sensor calibration, a motion with which to calibrate a motion sensor is determined. The motion sensor is controlled by a sensor processor and the motion sensor is comprised within a user interface that is coupled with a gaming engine. The sensor
+
+SUMMARY
+In a method of motion sensor calibration, a motion with which to calibrate a motion sensor is determined. The motion sensor is controlled by a sensor processor and the motion sensor is comprised within a user interface that is coupled with a gaming engine. The sensor processor and the gaming engine coordinate regarding the motion. The sensor processor monitors the motion sensor for evidence of the motion made as a user input. The sensor processor detects the user input from the motion sensor. The sensor processor outputs a message to the gaming engine indicating that the user input has been detected and the gaming engine responds to the message by performing a calibration of the motion sensor. The gaming engine outputs a message to the sensor processor indicating that the motion sensor has been calibrated. The sensor processor is responsive to the message and performs a calibration of the motion sensor.
+
+ABSTRACT
+
+In a method of motion sensor calibration, a motion with which to calibrate a motion sensor is determined. The motion sensor is controlled by a sensor processor and the motion sensor is comprised within a user interface that is coupled with a gaming engine. The sensor processor and the gaming engine coordinate regarding the motion. The sensor processor monitors the motion sensor for evidence of the motion made as a user input and determines that the motion sensor has not detected the motion. The sensor processor causes the gaming engine to output a prompt to the user interface for the user to make the motion. The sensor processor receives from the motion sensor an indication that the motion sensor has detected the motion. The sensor processor outputs the calibration information to the motion sensor.
+
+CLAIMS
+
+1. A method of motion sensor calibration, said method comprising:
+2. determining a motion with which to calibrate a motion sensor, wherein said motion sensor is controlled by a sensor processor, and wherein said motion sensor is comprised within a user interface, said user interface communicatively coupled with a gaming engine;
+3. coordinating said sensor processor and said gaming engine regarding said motion;
+4. monitoring said motion sensor for evidence of said motion made as a user input;
+5. generating a calibration value from said evidence of said motion; and
+6. The method of claim 1, wherein said motion is a gesture, and wherein said gesture is made by a user. 3. 4. 5. 6. 7. 8. 9. 10. 11. 33. The method of claim 1
+
+DESCRIPTION
+
+In a method of motion sensor calibration, a motion with which to calibrate a motion sensor is determined. The motion sensor is controlled by a sensor processor and the motion sensor is comprised within a user interface that is coupled with a gaming engine.

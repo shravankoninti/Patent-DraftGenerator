@@ -1,0 +1,71 @@
+
+1. A CABINET X-RAY SYSTEM INCLUDING VOICE COMMAND, THE SYSTEM COMPRISING:
+ A CABINET COMPRISING A WALLED ENCLOSURE SURROUNDING AN INTERIOR
+
+BACKGROUND
+Field: 1. A cabinet x-ray system including voice command, the system comprising:
+ a cabinet comprising a walled enclosure surrounding an interior chamber, a door configured to cover the interior chamber and a sampling chamber within the interior chamber for containing
+
+SUMMARY
+What is claimed is: 
+     
+       1. A cabinet x-ray system including voice command, the system comprising:
+ a cabinet comprising a walled enclosure surrounding an interior chamber, a door configured to cover the interior chamber and a sampling chamber within the interior chamber for containing a specimen; 
+ a display; 
+ a microphone; 
+ an x-ray system including an x-ray source and a detector; 
+ a processor; and 
+ a memory storing computer readable instructions that, when executed, cause the processor to perform the following operations: 
+ receive audio data from the microphone; 
+ determine, based on the audio data, a voice-initiated action; 
+ determine whether the voice-initiated action is a command for one of a plurality of functions of the cabinet x-ray system; 
+ in response to determining that the voice-initiated action is a command for one of the plurality of functions, perform the function; 
+ and display on the display the function. 
+ 
+     
+     
+     
+       2. The cabinet x-ray system of  claim 1, wherein the processor performs the following operations:
+ determine, based on the audio data, that the voice-initiated action is a command for the plurality of functions; and 
+ in response to determining that the voice-initiated action is a command for the plurality of functions, perform the function. 
+ 
+     
+     
+     
+       3. The cabinet x-ray system of  claim 1, wherein the plurality of functions comprises at least one of: an exposure control function, a timer function, a source control function, a detector control function, a film control function, a source power control function, a source current control function, a source voltage control function, a source exposure control function, a source exposure time control function, a source exposure time control function, a source tube current control function, a source tube voltage control function, a source tube exposure control function, a source tube exposure time control function, a source tube current control function, a source tube voltage control function, a source tube exposure control function, a source tube exposure time control function, a source tube current control function, a source tube voltage control function, a source tube exposure control function, a source tube exposure time control function, a source tube current control function, a source tube voltage control function, a source tube exposure control function, a source tube exposure time control function, a source tube current control function, a source tube voltage control function, a source tube exposure control function, a source tube exposure time control function,
+
+ABSTRACT
+
+1. A cabinet x-ray system including voice command, the system comprising:
+ a cabinet comprising a walled enclosure surrounding an interior chamber, a door configured to cover the interior chamber and a sampling chamber within the interior chamber for containing a specimen; 
+ a display; 
+ a microphone; 
+ an x-ray system in communication with the cabinet, the x-ray system configured to produce x-rays and produce an image of the specimen; 
+ a computing device in communication with the x-ray system and the microphone, the computing device configured to: receive audio data from the microphone; determine, based on the audio data, a voice-initiated action; and transmit a signal to the x-ray system, the signal corresponding to the voice-initiated action; 
+ wherein the computing device is configured to determine the voice-initiated action by comparing the audio data with a predetermined template; 
+ wherein the voice-initiated action comprises one of: 
+   a) initiating a radiation exposure to the specimen; 
+   b) initiating an exposure delay; 
+   c) initiating a radiation exposure; 
+   d) initiating a radiation exposure to the specimen with a selected radiation exposure time; 
+   e) initiating a radiation exposure to the specimen with a selected radiation exposure time
+
+CLAIMS
+
+1. A cabinet x-ray system including voice command, the system comprising:
+2. a cabinet comprising a walled enclosure surrounding an interior chamber, a door configured to cover the interior chamber and a sampling chamber within the interior chamber for containing a specimen;
+3. a display;
+4. a microphone;
+5. an x-ray system in the cabinet comprising a source of x-rays, a detector for receiving x-rays and a processor for processing images;
+6. a computing device comprising a processor and a memory; and
+7. a voice recognition module in the computing device for receiving audio data from the microphone and for determining, based on the audio data, a voice-initiated action;
+8. wherein the voice recognition module is configured to control the x-ray system to attain the voice-initiated action. The cabinet x-ray system of  claim 1, wherein the voice recognition module is configured to determine the voice-initiated action from the audio data by comparing the audio data to a plurality of voice profiles stored in the memory. 3. 4. 5. 6. 7. The cabinet x-ray system of  claim 6, wherein the control signal is a signal to control the x-ray system to produce an image of the specimen in the sampling chamber. 8. 9. 10. 11. 12. The cabinet x-ray system of  claim 15, wherein the imaging protocol comprises an imaging protocol for producing an organic image of the specimen. 20. 21. 24.
+
+DESCRIPTION
+
+1. A cabinet x-ray system including voice command, the system comprising: 
+ a cabinet comprising a walled enclosure surrounding an interior chamber, a door configured to cover the interior chamber and a sampling chamber within the interior chamber for containing a specimen; 
+ a display; 
+ a microphone; 
+ an x-ray system inside the cabinet including an x-ray source and an x-ray detector, the x-ray system configured to capture a plurality of x-ray images of the specimen contained in the sampling chamber; 
+ a computing device including a processor and memory, the processor and memory configured to: receive audio data from the microphone; determine, based on the audio data, a voice-initiated action; and cause the x-ray system to perform the voice-initiated action. The system of  claim 1, wherein the voice-initiated action includes acquiring at least one x-ray image of the specimen. 3. 4. 5. 6. 7. The system of  claim 1, wherein the voice-initiated action includes adjusting a position of the cabinet. 8. The system of  claim 7, wherein the position of the cabinet includes a position of the sampling chamber within the cabinet. 9. 10. 11. 12. 20. 21. 24. 31. 32. 33. 38. 40. 42. 47. 50. 51. 52. 60. 64. 65. 70. 75. 76. 78. 81. 88. 89. 90. 91. 95.
