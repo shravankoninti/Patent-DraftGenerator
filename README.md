@@ -28,7 +28,7 @@ This script processes raw patent data downloaded from Kaggle's **[USPTO - Explai
 ## Usage
 Run the script by specifying the folder path containing the `.parquet` files:
 
-```python
+
 folder_path = r"D:\Topcoder\patent_documentation\patent_data"
 result = load_patents_with_abstracts_from_random_files(folder_path, num_files=50)
 
@@ -63,7 +63,7 @@ This script processes the patent data to generate input fields such as **related
 ## Usage:
 Run the script by providing the file paths and ensure the Hugging Face model `microsoft/Phi-3-mini-128k-instruct` is loaded:
 
-```python
+
 file_path = r"D:/Topcoder/patent_documentation/random_1000_abstractnotnull_1.csv"
 output_file = r"D:/Topcoder/patent_documentation/patent_data_with_cleaned_inputs_phi3_mini.csv"
 
@@ -183,7 +183,7 @@ This script processes the cleaned patent data to format it into an instruction-b
 ## How to Run the Script
 To format your patent data into an instruction-based dataset, run the following code:
 
-```python
+
 # Create the dataset in instruction-based format
 instruction_df = create_instruction_based_dataset(df)
 
